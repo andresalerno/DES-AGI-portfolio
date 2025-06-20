@@ -2,7 +2,7 @@
 
 Olá, meu nome é André Salerno, sou estudante do curso de Desenvolvimento de Sofatware Multiplataforma da [FATEC de São José dos Campos](https://sjc.fatec.sp.gov.br/), cursando o 3º semestre do curso de [Desenvolvimento de Software Multiplataforma](https://sjc.fatec.sp.gov.br/curso_dsm) e com previsão de conclusão do curso em dezembro de 2026.
 
-Sempre gostei de estudar, e tecnologia tem sido uma grande fonte de aprendizado em minhas atuais funções como consultor sênior de idealizados da Data FinTech Solutions, uma empresa que nasceu da minha experiência no mercado financeiro, especialmente na área de crédito (pessoa física e jurídica).
+Sempre gostei de estudar, e tecnologia tem sido uma grande fonte de aprendizado em minhas atuais funções como consultor sênior de idealizador da [Data FinTech Solutions](https://www.datafintechsolutions.com/), uma empresa que nasceu da minha experiência no mercado financeiro, especialmente na área de crédito (pessoa física e jurídica).
 
 Costumo dizer que a área de tecnologia é uma forma de eu me tornar um melhor gestor financeiro, e de fato eu tenho observado isso na prática com as oportunidades que eu observo na medida que tem tido as aulas de excelentes professores na FATEC de São José dos Campos.
 
