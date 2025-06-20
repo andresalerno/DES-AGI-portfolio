@@ -4,7 +4,7 @@ Olá, meu nome é André Salerno, sou estudante do curso de Desenvolvimento de S
 
 Sempre gostei de estudar, e tecnologia tem sido uma grande fonte de aprendizado em minhas atuais funções como consultor sênior de idealizador da [Data FinTech Solutions](https://www.datafintechsolutions.com/), uma empresa que nasceu da minha experiência no mercado financeiro, especialmente na área de crédito (pessoa física e jurídica).
 
-Costumo dizer que a área de tecnologia é uma forma de eu me tornar um melhor gestor financeiro, e de fato eu tenho observado isso na prática com as oportunidades que eu observo na medida que tem tido as aulas de excelentes professores na FATEC de São José dos Campos.
+Costumo dizer que a área de tecnologia é uma forma de eu me tornar um melhor gestor financeiro, e de fato eu tenho observado isso na prática com as oportunidades que eu observo na medida que tenho tido as aulas de excelentes professores na FATEC de São José dos Campos.
 
 Encerro compartilhando a minha visão sore a área de tecnologia, que ao meu ver é fundamental em qualquer outro exercício profissional, e que a tecnologia é uma ferramenta poderosa para a melhoria contínua de qualquer pessoa e empresa.
 
