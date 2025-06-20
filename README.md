@@ -6,7 +6,7 @@ Sempre gostei de estudar, e tecnologia tem sido uma grande fonte de aprendizado 
 
 Costumo dizer que a área de tecnologia é uma forma de eu me tornar um melhor gestor financeiro, e de fato eu tenho observado isso na prática com as oportunidades que eu observo na medida que tenho tido as aulas de excelentes professores na FATEC de São José dos Campos.
 
-Encerro compartilhando a minha visão sore a área de tecnologia, que ao meu ver é fundamental em qualquer outro exercício profissional, e que a tecnologia é uma ferramenta poderosa para a melhoria contínua de qualquer pessoa e empresa.
+Encerro compartilhando a minha visão sobre a área de tecnologia, que ao meu ver é fundamental em qualquer outro exercício profissional, e que a tecnologia é uma ferramenta poderosa para a melhoria contínua de qualquer pessoa e/ou empresa.
 
 > "A área de tecnologia é meio e não fim. Sem um entendimento real do problema a ser solucinado, nenhum negócio será impactado por algumas linhas de código." - André Salerno
 
