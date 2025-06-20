@@ -137,6 +137,7 @@ Percebemos a importância da área de DEVOPS, e o uso de técnicas de CI/CD que 
 
 ## 📫 Contatos
 
-💻 [GitHub](https://github.com/andresalerno)
+💻 [![GitHub](https://img.shields.io/badge/Apresentação-GitHub-blue)](https://github.com/andresalerno)
 
-💼 [LinkedIn](https://www.linkedin.com/in/andresalerno/)
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/andresalerno/)
+
