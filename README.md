@@ -135,6 +135,33 @@ Conforme comentado acima, começamos a nos deparar com os desafios envolvendo o 
 
 Percebemos a importância da área de DEVOPS, e o uso de técnicas de CI/CD que ainda temos pouco conhecimento sobre, mas já identificamos a sua importância.
 
+### **2025-2** - Monitoraramento do clima e demais condições a partir de estações meteorológicas
+
+Nesse semestre fui integrante da Equipe SkyFly como Developer, o que me possibilitou conhecer novas tecnologias aplicadas no uso do IoT.
+
+Em parceria com a empresa Tecsus, desenvolvemos o Atmos, uma aplicação web moderna e responsiva, capaz de monitorar o clima e as condições do solo por meio de estações meteorológicas distribuídas pela cidade de São José dos Campos. Essa funcionalidade permite que a aplicação envie alertas em situações de risco, contribuindo para a prevenção de acidentes e a proteção da população.
+
+Confira aqui 👉 [Atmos](https://github.com/SkyFlyTeam/Atmos-documentation)
+
+### 👥 Contribuições Pessoais
+
+- Envolvimento direto no trabalho e desafios referente ao uso de dispositivos que necessitam de novas comunicações como TCP, UDP entre outras.
+
+- Arqwuiteturas de projetos como processador/receptor de dados foram necessários para uma correta captura e persistência dos dados
+
+### ⚙️ Hard Skills Desenvolvidas
+
+Somadas as tecnologias já trabalhadas ao longo dos semestres, nesse projeto fomos desafios a observarmos:
+
+- desenho de arquitetrua
+- CI / CD
+- Premissas e condições envolvendo IoT
+
+
+### 🧠 Soft Skills Desenvolvidas
+
+Envolvimento maior com decisões de arquitetura, capacidade limite dessa infra e emprego mais estratégico do DEVOPS.
+
 ## 📫 Contatos
 
 [![GitHub](https://img.shields.io/badge/GitHub-@andresalerno-181717?style=flat&logo=github&logoColor=white)](https://github.com/andresalerno)
