@@ -1,6 +1,6 @@
 ## Apresentação
 
-Olá, meu nome é André Salerno, sou estudante do curso de Desenvolvimento de Sofatware Multiplataforma da [FATEC de São José dos Campos](https://sjc.fatec.sp.gov.br/), cursando o 3º semestre do curso de [Desenvolvimento de Software Multiplataforma](https://sjc.fatec.sp.gov.br/curso_dsm) e com previsão de conclusão do curso em dezembro de 2026.
+Olá, meu nome é André Salerno, sou estudante do curso de Desenvolvimento de Software Multiplataforma da [FATEC de São José dos Campos](https://sjc.fatec.sp.gov.br/), cursando o 5º semestre do curso de [Desenvolvimento de Software Multiplataforma](https://sjc.fatec.sp.gov.br/curso_dsm) e com previsão de conclusão do curso em dezembro de 2026.
 
 Sempre gostei de estudar, e tecnologia tem sido uma grande fonte de aprendizado em minhas atuais funções como consultor sênior de idealizador da [Data FinTech Solutions](https://www.datafintechsolutions.com/), uma empresa que nasceu da minha experiência no mercado financeiro, especialmente na área de crédito (pessoa física e jurídica).
 
@@ -8,7 +8,7 @@ Costumo dizer que a área de tecnologia é uma forma de eu me tornar um melhor g
 
 Encerro compartilhando a minha visão sobre a área de tecnologia, que ao meu ver é fundamental em qualquer outro exercício profissional, e que a tecnologia é uma ferramenta poderosa para a melhoria contínua de qualquer pessoa e/ou empresa.
 
-> "A área de tecnologia é meio e não fim. Sem um entendimento real do problema a ser solucinado, nenhum negócio será impactado por algumas linhas de código." - André Salerno
+> "A área de tecnologia é meio e não fim. Sem um entendimento real do problema a ser solucionado, nenhum negócio será impactado por algumas linhas de código." - André Salerno
 
 ## 🧠 Meu Portfólio de Projetos
 
@@ -161,6 +161,35 @@ Somadas as tecnologias já trabalhadas ao longo dos semestres, nesse projeto fom
 ### 🧠 Soft Skills Desenvolvidas
 
 Envolvimento maior com decisões de arquitetura, capacidade limite dessa infra e emprego mais estratégico do DEVOPS.
+
+### **2026-1** - Veredito: aplicativo mobile que visa auxiliar advogados e juízes
+
+Como developer na Equipe SkyFly, pude conhecer a realidade uma nova linguagem de programação chamada `Flutter`, bem como a realidade de um novo segmento econômico: área jurídica.
+
+Trabalho desenvolvido com a empresa Xertica.AI, um aplicativo para magistrados e assessorias que recebe a petição inicial, lê e sintetiza os pontos-chave, e sugere precedentes mais relevantes com similaridade, tribunal, espécie e status, apresentando aplicabilidade e uma breve justificativa para agilizar e fundamentar decisões.
+
+Confira aqui 👉 [Veredito](https://github.com/SkyFlyTeam/veredito-documentation)
+
+### 👥 Contribuições Pessoais
+
+- Criação do backend/frontend para uma linguagem nova
+
+- Uso de API's para conexão com LLM's
+
+- Entendimento do funcionamento de um banco de dados vetorial
+
+
+### ⚙️ Hard Skills Desenvolvidas
+
+Somadas as tecnologias já trabalhadas ao longo dos semestres, nesse projeto fomos desafios a observarmos:
+
+- desenho de arquitetura
+- IA
+
+
+### 🧠 Soft Skills Desenvolvidas
+
+Desafios quanto a prazos que foram repactuados pelo cliente (negociação)
 
 ## 📫 Contatos
 
